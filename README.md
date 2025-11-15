@@ -93,6 +93,7 @@ A6745F3D67B868CFA388B77B2D4575DD15091A7D32D9A0EBF1DA52C0D6C03E247D827DF86C97
 ### 🛡️ Core ###
 
 | :--- | :--- |
+
 ![Rust](https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge&logo=rust) |
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
